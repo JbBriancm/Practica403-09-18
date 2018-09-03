@@ -16,13 +16,13 @@ public class Practica4 {
      */
     public static void main(String[] args) {
        saludoteam();
-        saludoteam2();
+        saludoteam3();
     }
     public static void saludoteam(){
     
      System.out.println("Hello team !!!");
     }
-    public static void saludoteam2(){
-        System.out.println("hello team2 !!!");
+    public static void saludoteam3(){
+        System.out.println("hello team3 !!!");
     }
 }
