@@ -18,6 +18,7 @@ public class Practica4 {
        saludoteam();
        Update1PM();
         update2();
+        update3();
     }
     public static void saludoteam(){
     
@@ -33,5 +34,7 @@ public class Practica4 {
     public static void  update2(){
         System.out.println("Actualizacion por segunda vez!!!");
     }
-    
+    public static void update3(){
+         System.out.println("Actualizacion por tercera vez!!!");
+    }   
 }
