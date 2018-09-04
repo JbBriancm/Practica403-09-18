@@ -17,7 +17,7 @@ public class Practica4 {
     public static void main(String[] args) {
        saludoteam();
        Update1PM();
-        
+        update2();
     }
     public static void saludoteam(){
     
@@ -29,6 +29,9 @@ public class Practica4 {
     
     public static void Update1CAHG(){
         System.out.println("Actualizado");
+    }
+    public static void  update2(){
+        System.out.println("Actualizacion por segunda vez!!!");
     }
     
 }
